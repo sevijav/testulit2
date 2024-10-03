@@ -1,3 +1,4 @@
+
 <?php
 include 'db.php';
 
@@ -61,3 +62,4 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <p2>ako na to</p2>
 </body>
 </html>
+
