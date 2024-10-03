@@ -1,3 +1,4 @@
+
 <?php
 include 'db.php';
 
@@ -57,5 +58,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     </div>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+    <p1>tao ka ba</p1>
+    <p2>ako na to</p2>
 </body>
 </html>
+
