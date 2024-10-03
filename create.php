@@ -14,7 +14,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     header("Location: index.php");
     exit();
-
 }
 ?>
 <!DOCTYPE html>
@@ -56,6 +55,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         </form>
         <a href="index.php" class="btn btn-secondary mt-3">Back to User List</a>
     </div>
-    
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+    <p1>tao ka ba</p1>
 </body>
 </html>
